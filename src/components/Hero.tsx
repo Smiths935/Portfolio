@@ -34,7 +34,7 @@ const Hero = () => {
                 <img
                     // width={50}
                     // height={50}
-                    src="/profile-rounded.png"
+                    src="../../../public/profile-rounded.png"
                     alt="Landscape picture"
                     className='w-full h-auto max-w-xs max-md:w-56'
                 />
